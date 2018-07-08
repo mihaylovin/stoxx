@@ -1,0 +1,30 @@
+{
+  "name": "stoxx",
+  "version": "1.0.0",
+  "description": "A simple tool to pull historical stock data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaylovin/stoxx.git"
+  },
+  "keywords": [
+    "stock",
+    "stoxx",
+    "vix",
+    "eurostoxx"
+  ],
+  "author": "Nikolay Mihaylov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihaylovin/stoxx/issues"
+  },
+  "homepage": "https://github.com/mihaylovin/stoxx#readme",
+  "dependencies": {
+    "csv": "^3.1.0",
+    "date-and-time": "^0.6.2"
+  }
+}
