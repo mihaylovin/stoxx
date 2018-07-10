@@ -1,4 +1,4 @@
-﻿Company In;Company Out;Change Date;Ticker;Ticker
+﻿Company In;Company Out;Change Date;Ticker In;Ticker Out
 ADIDAS;ASSICURAZIONI GENERALI;September 19, 2016;ADS;G.MI
 AHOLD DELHAIZE;UNICREDIT;September 19, 2016;AD.AS;UCG.MI
 CRH;CARREFOUR;September 19, 2016;CRH.L;CA.PA
@@ -7,9 +7,9 @@ SAFRAN;RWE;September 21, 2015;SAF.PA;RWE.DE
 NOKIA;CRH;September 22, 2014;NOKIA.HE;CRH.L
 DEUTSCHE POST;ARCELORMITTAL;September 23, 2013;DPW.DE;MT.AS
 ASML Holding;Deutsche Boerse;June 18, 2012;ASML.AS;DB1.DE
-Essilor International ;Telecom Italia SPA;June 18, 2012;ESL.TI;TI
+Essilor International ;Telecom Italia SPA;June 18, 2012;EI.PA;TI
 VOLKSWAGEN PREF;ALSTOM;September 19, 2011;VOW3.DE;ALO.PA
-INDITEX;CREDIT AGRICOLE;September 19, 2011;ITX.MC;ACAEW.PA
+INDITEX;CREDIT AGRICOLE;September 19, 2011;ITX.MC;ACA.PA
 Bayrische Motoren Werken;AEGON NV;September 20, 2010;BMW.DE;AEG
 RWE AG;PHILIPS ELECTRONICS N.V.;September 21, 2009;RWE.DE;PHIA.AS
 Alstrom ;Alcatel-Lucent;September 22, 2008;ALO.PA;ALCTL.IS
